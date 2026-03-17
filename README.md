@@ -71,7 +71,8 @@ Open the app in your browser at:
 http://localhost:3000
 
 🖼️ Screenshot of Running Application
-(Insert your screenshot here after pushing the project.)
+<img width="1329" height="1038" alt="image" src="https://github.com/user-attachments/assets/31ca1669-9ab8-4bb8-b10f-13dd2ff3ed1a" />
+
 
 🎯 Assignment Goals Achieved
 Created multiple modular components
